@@ -2,7 +2,7 @@
     "name": "mojahed/eduplusbarcode",
     "description": "EduplusBarcode - Fast Barcode Generator PHP SDK with Go binary backend.",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
